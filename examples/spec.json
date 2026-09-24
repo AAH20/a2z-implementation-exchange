@@ -1,0 +1,13 @@
+{
+  "id": "SUPPORT-IMPLEMENTATION-DEMO-001",
+  "title": "Implement a measured AI-assisted customer-support workflow",
+  "workload": "AI-assisted customer support",
+  "objective": "Deliver a recorded, replayable support implementation comparison and obtain explicit buyer acceptance.",
+  "currency": "USD",
+  "budget_usd": 5000,
+  "minimum_cases_per_arm": 30,
+  "minimum_acceptance_rate": 0.8,
+  "maximum_cost_per_accepted_usd": 30,
+  "required_capabilities": ["support-workflow", "evaluation", "handoff"],
+  "evidence_class": "SYNTHETIC"
+}

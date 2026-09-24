@@ -1,0 +1,22 @@
+[
+  {
+    "id": "PROPOSAL-A",
+    "provider_label": "Synthetic implementation team A",
+    "worker_type": "human",
+    "capabilities": ["support-workflow", "evaluation", "handoff"],
+    "bid_usd": 3200,
+    "delivery_days": 14,
+    "plan": "Configure a support workflow, record paired test cases, produce an acceptance handoff.",
+    "disclosures": ["Invented provider and bid; no actual availability or identity verification."]
+  },
+  {
+    "id": "PROPOSAL-B",
+    "provider_label": "Synthetic implementation team B",
+    "worker_type": "swarm",
+    "capabilities": ["support-workflow", "evaluation"],
+    "bid_usd": 2500,
+    "delivery_days": 7,
+    "plan": "Automate initial configuration and test generation.",
+    "disclosures": ["Invented provider; missing the required handoff capability."]
+  }
+]

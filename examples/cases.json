@@ -1,0 +1,482 @@
+[
+  {
+    "arm": "baseline",
+    "case_id": "CASE-001",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-002",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-003",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-004",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-005",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-006",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-007",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-008",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-009",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-010",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-011",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-012",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-013",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-014",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-015",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-016",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-017",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-018",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-019",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-020",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-021",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-022",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-023",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-024",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-025",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-026",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-027",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-028",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-029",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-030",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-031",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-032",
+    "accepted": true,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-033",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-034",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-035",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-036",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-037",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-038",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-039",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "baseline",
+    "case_id": "CASE-040",
+    "accepted": false,
+    "cost_usd": 28
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-001",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-002",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-003",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-004",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-005",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-006",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-007",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-008",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-009",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-010",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-011",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-012",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-013",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-014",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-015",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-016",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-017",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-018",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-019",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-020",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-021",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-022",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-023",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-024",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-025",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-026",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-027",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-028",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-029",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-030",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-031",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-032",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-033",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-034",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-035",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-036",
+    "accepted": true,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-037",
+    "accepted": false,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-038",
+    "accepted": false,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-039",
+    "accepted": false,
+    "cost_usd": 22
+  },
+  {
+    "arm": "candidate",
+    "case_id": "CASE-040",
+    "accepted": false,
+    "cost_usd": 22
+  }
+]

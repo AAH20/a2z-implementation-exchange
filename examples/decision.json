@@ -1,0 +1,5 @@
+{
+  "status": "ACCEPTED",
+  "buyer_reviewer": "Synthetic buyer reviewer",
+  "rationale": "The synthetic evaluation passes the declared gates; acceptance is invented for workflow demonstration."
+}
